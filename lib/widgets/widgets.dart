@@ -1,3 +1,4 @@
+export 'package:chat_app/widgets/chat_message.dart';
 export 'package:chat_app/widgets/custom_button.dart';
 export 'package:chat_app/widgets/login_labes.dart';
 export 'package:chat_app/widgets/logo.dart';
